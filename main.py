@@ -6,7 +6,7 @@ No network, no randomness, no clock: two runs produce identical bytes.
 
 Stories (all reported on 20 Nov 2026):
   1. GTA VI takes $3.79bn on day one - biggest entertainment launch ever.
-  2. Russia's huge barrage hits Kyiv bridges; two missiles land in Poland.
+  2. Russia's huge barrage hits Kyiv bridges; three objects (two missiles and a drone) land in Poland.
   3. Trump, Xi and Putin issue a joint peace pledge after Shenzhen talks.
   4. Myanmar rejects the world court's genocide ruling, a day after it.
   5. COP31 climate talks stall in Antalya over fossil fuels.
@@ -295,7 +295,7 @@ def main():
     pw, ph, gap = 474, 186, 20
     stories = [
         ("WAR IN EUROPE", "KYIV BRIDGES HIT IN HUGE BARRAGE",
-         "400+ drones, 110 missiles; two fall in Poland.",
+         "400+ drones, 110 missiles; three fall in Poland.",
          draw_bridge),
         ("DIPLOMACY", "TRUMP, XI AND PUTIN PLEDGE PEACE",
          "Joint declaration after the first three-way summit.",
